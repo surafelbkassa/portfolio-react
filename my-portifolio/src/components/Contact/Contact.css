@@ -1,0 +1,88 @@
+.contact-section {
+  background-color: #fdfefe;
+  padding: 80px 20px;
+  color: #2C3E50;
+}
+
+.contact-container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-container h2 {
+  font-size: 2.4rem;
+  margin-bottom: 20px;
+  color: #3498DB;
+}
+
+.contact-container p {
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+}
+
+/* Form Styles */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+input,
+textarea {
+  padding: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  resize: none;
+  width: 100%;
+}
+
+button {
+  background-color: #3498DB;
+  color: white;
+  padding: 14px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #1ABC9C;
+}
+
+/* Contact Info Styles */
+.contact-info {
+  margin-top: 50px;
+  text-align: left;
+}
+
+.contact-info h3 {
+  font-size: 1.3rem;
+  margin-bottom: 16px;
+  color: #2C3E50;
+}
+
+.contact-info ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-info li {
+  margin-bottom: 12px;
+  font-size: 1rem;
+}
+
+.contact-info a {
+  color: #3498DB;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.contact-info a:hover {
+  color: #1ABC9C;
+}
