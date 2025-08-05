@@ -16,7 +16,7 @@ function Projects() {
       link: "https://github.com/surafelbkassa/go-task-manager",
     },
     {
-      title: "Book Tracker",
+      title: "Book Tracker (In progress...)",
       description: "Full-stack app to track books read, uses Open Library API.",
       tech: "Node.js, PostgreSQL, Express",
       link: "https://github.com/surafelbkassa/Book_Tracker",
@@ -28,7 +28,7 @@ function Projects() {
       link: "https://github.com/surafelbkassa/Netflix-Clone",
     },
     {
-      title: "Notes App (Go)",
+      title: "Notes App (Go)(In progress...)",
       description: "JWT-authenticated REST API for note-taking with bcrypt security.",
       tech: "Go, Gin, JWT",
       link: "https://github.com/surafelbkassa/notes-app-go",

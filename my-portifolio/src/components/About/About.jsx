@@ -12,13 +12,13 @@ function About() {
         <div className="about-text">
           <h2>About Me</h2>
           <p>
-            I'm <strong>Surafel Belachew</strong>, a creative and dependable frontend developer who turns ideas into scalable, user-friendly digital experiences.
+            I'm <strong>Surafel Belachew</strong>, a creative and dependable frontend(React) and backend(Golang) developer who turns ideas into scalable, user-friendly digital experiences.
           </p>
           <p>
-            I specialize in JavaScript, React, and clean UI/UX. I care deeply about accessibility, responsive design, and building interfaces that just feel right.
+            I specialize in Golang, JavaScript, React, and clean UI/UX. I care deeply about accessibility, responsive design, and building interfaces that just feel right.
           </p>
           <p>
-            Outside of coding, I'm always learning — tech, design, or whatever challenges help me grow. Let's work together to build something great.
+            Outside of coding, I'm always learning — AI, tech, design, or whatever challenges help me grow. Let's work together to build something great.
           </p>
         </div>
       </div>
